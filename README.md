@@ -1,5 +1,6 @@
 # TurtleHardcoreMessages-AddOn
 << This addon does very little. Takes the SYSTEM messages broadcasted to the world, rewrites it to be less verbose, and shows only the 'valuable' information. Also makes all player's names into CLINKs/Chat Links for some extra legibility. >>
+
 << I've recorded the existence of all these messages: >>
 
 AnyName has reached level 10 in Hardcore mode! Their ascendance towards immortality continues, however, so do the dangers they will face.
