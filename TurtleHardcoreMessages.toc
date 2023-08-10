@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: TurtleHardcoreMessages
+## Notes: Trims down the SYSTEM messages about Hardcore characters in the server TurtleWoW.
+## Author: Queen Bitch of the Universe
+## Version: 1.0
+## X-Date: 20-07-2023
+
+
+TurtleHardcoreMessages.lua
