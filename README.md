@@ -1,4 +1,6 @@
 # TurtleHardcoreMessages-AddOn
+<<I DON'T EVEN KNOW IF THIS ADDON IS STILL WORKING IN TURTLEWOW VERSION 1.17+>>
+
 << This addon does very little. Takes the SYSTEM messages broadcasted to the world, rewrites it to be less verbose, and shows only the 'valuable' information. Also makes all player's names into CLINKs/Chat Links for some extra legibility. >>
 
 << I've recorded the existence of all these messages: >>
